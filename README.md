@@ -1,4 +1,5 @@
-# 💫 Hi, I'm Shima!<br><br>🔭 I'm currently working on my final year project, building a credit card fraud detection model using federated learning.<br>🌱 I am learning about machine learning techniques and building a distributed systems program using ASP.NET web API!
+# 💫 Hi, I'm Shima!<br><br>
+🔭 I'm currently working on my final year project, building a credit card fraud detection model using federated learning.<br>🌱 I am learning about machine learning techniques and building a distributed systems program using ASP.NET web API!
 
 
 ## 🌐 Socials:
