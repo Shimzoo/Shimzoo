@@ -2,7 +2,6 @@
 
 🔭 I'm currently working on my final year project, building a credit card fraud detection model using federated learning.<br>🌱 I am learning about machine learning techniques and building a distributed systems program using ASP.NET web API!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shima-valipour-profile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shima.valipour02@gmail.com)
 
